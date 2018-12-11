@@ -1,4 +1,4 @@
-[](02 Star Hunter (1).pdf)
+[Star Hunter](/02 Star Hunter (1).pdf)
 
 Follow the directions in the PDF, then also...
 
