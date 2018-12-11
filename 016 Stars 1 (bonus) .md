@@ -12,3 +12,5 @@ Bronze medal: you can only make stars 5, 7, 9, 11, 13, 15, 17, 19
 Silver medal: you can make stars 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20
 Gold medal: can make stars 5, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 19, and 20 using only 8 lines of code!!!!
 NOTE: Notice that 6 points, 12 points, and 18 points are not required.
+
+![stars](/Stars.PNG)
