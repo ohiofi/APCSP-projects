@@ -33,5 +33,3 @@ Include the following information in your dialogue.
 •	Your least favorite part of the school day
 •	Activities/Athletics in which you plan to participate
 •	Anything else you would like to share
-
-[01 Scratch About Me Intro (1).docx](01 Scratch About Me Intro (1).docx)
