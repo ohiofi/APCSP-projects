@@ -6,7 +6,7 @@ Your program should:
 
 Ask the user "How many repetitions: "
 Generate a random color using color() and random(). Each time you run the program it will draw with a new random color.
-Define a function that will draw a simple drawing using forward(), backward(), left(), right(), penup(), pendown(), and home(). Home (Links to an external site.)Links to an external site. will move the turtle back to the center of the canvas.
+Define a function that will draw a simple drawing using forward(), backward(), left(), right(), penup(), pendown(), and home(). Home Links to an external site. will move the turtle back to the center of the canvas.
 Use a for loop to repeat the simple drawing. Each time you draw it, you will use setheading() to rotate the drawing around the center of the canvas. Set Heading (Links to an external site.)Links to an external site. works like Scratch's "point towards." You will probably need something like, setheading(360 / sides * i)
 Here are a few examples...
 ![turtlemandala](/TurtleMandala.PNG)
