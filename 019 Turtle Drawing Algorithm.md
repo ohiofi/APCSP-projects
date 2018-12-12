@@ -18,5 +18,7 @@ You MUST use 20 or more little shapes to draw your big shape.
 
 Here are a few examples of what your finished drawing might look like:
 ![Turtlealgorithm](/drawingAlgorithm.PNG)
+
 Your finished drawing should NOT look like a spiral/swirl. Here are a few examples of what your finished drawing should NOT look like:
+
 ![IDEK](/IDEK.PNG)
