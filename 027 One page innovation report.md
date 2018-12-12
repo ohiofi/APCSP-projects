@@ -39,6 +39,9 @@ Purpose: the need, goal, or problem that led to the creation of the innovation. 
 Function: how the innovation actually accomplishes its purpose. This typically means describing the way it consumes, produces, or transforms data. This is “how” the innovation actually works.
 Effect on Society: try to find a group that has benefited from the innovation. Describe the specific impact of the innovation on them in terms of society, economy, or culture. What is a negative effect that either IS happening or COULD happen as a result of this innovation? (Do NOT bother saying "hacking")
 Sources: MUST include at least 3 news articles and the URLs for the news articles but you can use more.
+
 [Data Innovation One-Pager template](https://docs.google.com/document/d/1fybRqfbfWRYHhUGBMA_dZedXXaaVezt3gYks8gsza0E/export?format=pdf)
+
 [Data Innovations Activity Guide](https://docs.google.com/document/d/1u5L0whsWQ5YQbUqf8SbrJFIcIX91d2bvaYPwC_zP8nI/export?format=pdf)
+
 [Code.org Unit 4 Lesson 4](https://studio.code.org/s/csp4-2018/stage/4/puzzle/1)
