@@ -12,6 +12,7 @@ Seaweed (random locations / sizes) | Clouds (random locations / sizes) | Clouds 
 Fish (random locations / sizes) | Ground with hills | Ground with river or ocean
 Starfish | 	Trees (random locations / sizes) | Skyscrapers (random locations / sizes)
 Crab (or your choice) | Barn (or your choice) | Bridge (or your choice)
+
 Additional Requirements:
 
 Use random shades of colors on EVERYTHING. The blue water or sky will randomly be set to a shade of blue. Each seaweed and each tree should have a random shade of green.
