@@ -1,4 +1,4 @@
-Ask the user how much the bill is (for example, 19.99 or 173.52).
+Ask the user how much the bill is (for example, 19.99 or 173.52). MUST BE ABLE TO CALCULATE DECIMAL NUMBERS
 
 Collect the user's input, convert it to a number, and store it in a variable.
 
