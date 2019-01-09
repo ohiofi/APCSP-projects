@@ -17,4 +17,4 @@ BIG DATA!
 CODE.ORG!
 SCRATCH!
 ```
-![blockletters](blockletters (1).jpg)
+![blockletters](APCSP-projects/blockletters (1).jpg)
