@@ -1,5 +1,7 @@
 2D Geometry Calculations
 
+MUST USE INPUT VALIDATION
+
 You can learn how to validate user input [here](https://www.101computing.net/number-only/) and [here](https://www.w3schools.com/python/python_try_except.asp) 
 Complete the code to display the perimeter and area of your selected shapes.
 
