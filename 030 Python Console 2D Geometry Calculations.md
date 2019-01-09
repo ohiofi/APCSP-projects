@@ -20,3 +20,21 @@ Pick two: Right Triangle, Oblique Triangle, Square, Rectangle, Rhombus, Trapezoi
 6. Validate the user input
 
 7. Say the calculation
+
+Sample Run with user input in bold
+```python
+Pick a shape 1=hexagon 2=pentagon: 1
+You picked Hexagon
+What is your side measurement: 5
+Your area is 64.9519052838329
+Your perimeter is 30
+Pick a shape 1=hexagon 2=pentagon: lkjsd
+Please type a number
+Pick a shape 1=hexagon 2=pentagon: 2
+You picked Pentagon
+What is your side measurement: afsdg
+Please type a number
+What is your side measurement: 5
+Your area is 43.01193501472417
+Your perimeter is 25
+```
