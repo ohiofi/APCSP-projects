@@ -39,3 +39,5 @@ Peace sign
 Dollar sign
 Snowman
 3D Cheese Wedge
+
+![Example](/randlocations11.jpg)
