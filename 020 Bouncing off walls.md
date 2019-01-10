@@ -31,4 +31,4 @@ Moving forward a random amount
 Turn a random angle
 Bounce off walls
 
-![Example}(/randwalk11.jpg)
+![Example](/randwalk11.jpg)
