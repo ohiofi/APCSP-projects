@@ -8,3 +8,18 @@ Define a function with two parameters: question and answer. Inside this function
 The game will only move on to another question when you get the question right.
 Use a variable to keep track of the number of incorrect guesses made by the user.
 Warn the player after each incorrect guess that the game will be over if they have __ more incorrect answers.
+
+```python
+There will be five questions. Be sure to avoid capital letters at the beginning of your answer.
+a broad term for datasets so large or complex that traditional data processing applications are inadequate is ___ ____: big boss
+incorrect. you have 2 guesses still left.
+a broad term for datasets so large or complex that traditional data processing applications are inadequate is ___ ____: big data
+correct
+a variable that can only be true or false is: integer
+incorrect. you have 1 guesses still left.
+a variable that can only be true or false is: boolean
+correct
+U.S. military department that created the Internet for scientific and military communications is: the meme army
+incorrect. you have 0 guesses still left.
+game over.
+```
