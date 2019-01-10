@@ -9,3 +9,22 @@ When they answer correctly, say "Correct!", add 4 or 5 points to their score, te
 ======
 
 Gold Medal Challenge: Use a function in order to avoid repeating yourself three times. Use the smallest amount of code (lines of code) possible.
+
+```python
+How many times has OSU football won a National Championship? 7
+Too low
+Your score is now 97
+How many times has OSU football won a National Championship? 8
+Correct
+Your score is 102
+What year did Urban Meyer retire (the first time)? 2011
+Too high
+Your score is now 99
+What year did Urban Meyer retire (the first time)? 2010
+Correct
+Your score is 104
+How many points did OSU beat Michigan by in 2018? 62
+Correct
+Your score is 109
+Congratulations! You have completed the trivia game.
+```
