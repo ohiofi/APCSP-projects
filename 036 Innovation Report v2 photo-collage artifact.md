@@ -9,7 +9,7 @@ to this assignment. You will put all six parts in your copy of the starter templ
 4. written response to Question 2c
 5. written response to Question 2d
 6. written response to Question 2e (You will add some image references. Do NOT cite Google Images.)
-** You will turn in your Google Doc by clicking the big, blue SHARE button at the top-right of your Google Doc, then clicking GET SHAREABLE LINK. Turn in the link here.**
+**You will turn in your Google Doc by clicking the big, blue SHARE button at the top-right of your Google Doc, then clicking GET SHAREABLE LINK. Turn in the link here.**
 Here are several photo-collage samples that were judged as "good":
 ![photocollage](/photocollage.PNG)
 The following sample looks good, but the report was judged as NOT a computing innovation
