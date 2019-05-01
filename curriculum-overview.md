@@ -161,6 +161,14 @@ Group - [038TextgameFoobarv2.md](038TextgameFoobarv2.md)
 
 ## Tk2
 
+[044WeirdCalculatorInputValidationReview.md](044WeirdCalculatorInputValidationReview.md)
+
+[045TkinterShapesAndButtons.md](045TkinterShapesAndButtons.md)
+
+[046TkinterAppWithInputValidation.md](046TkinterAppWithInputValidation.md)
+
+[047TkinterPollv1.0.md](047TkinterPollv1.0.md)
+
 # 4th Quarter
 
 ## Create
