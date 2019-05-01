@@ -43,9 +43,9 @@
 
 # Scratch
 
-[001 About Me](001%20About%20Me.md)
+[001 About Me](001 About Me.md)
 
-Either [002 Bouncing Off the Walls.md](https://github.com/ohiofi/APCSP-projects/blob/master/002%20Bouncing%20Off%20the%20Walls.md) or [003 Star Hunter](https://github.com/ohiofi/APCSP-projects/blob/master/003%20Star%20Hunter.md)
+Either [002 Bouncing Off the Walls.md](002%20Bouncing%20Off%20the%20Walls.md) or [003 Star Hunter](https://github.com/ohiofi/APCSP-projects/blob/master/003%20Star%20Hunter.md)
 
 Either [004 Walking & Basic Jumping]() or [005 Cheese Chase]()
 
