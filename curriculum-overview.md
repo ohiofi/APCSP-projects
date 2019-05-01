@@ -1,6 +1,6 @@
 # APCSP Curriculum Overview
 
-1st Quarter 
+[1st Quarter](#1st-quarter)
 
 1. **[Scratch](#scratch)** - *2 wks* - input, output, variable, script, conditional, loop, prompt, event listeners
 
@@ -8,9 +8,9 @@
 
 1. **[Binary](#binary)** - *2 wk* - Code.org Unit 1, Chapter 1: Representing and Transmitting Information, [https://studio.code.org/s/csp1-2018](https://studio.code.org/s/csp1-2018), binary, hexadecimal, ASCII, Big Data report (Explore v1)
 
-1. **[Turtle art](#turtle-art)** - *3 wks* - Python Turtle art, loops, input, validation try/except, operators, def new functions
+1. **[Turtle Art](#turtle-art)** - *3 wks* - Python Turtle art, loops, input, validation try/except, operators, def new functions
 
-2nd Quarter 
+[2nd Quarter](#2nd-quarter)
 
 1. **[IP](#ip)** - *1 wk* - Code.org Unit 1, Chapter 2: Inventing the Internet, [https://studio.code.org/s/csp1-2018](https://studio.code.org/s/csp1-2018), binary,
 
@@ -20,7 +20,7 @@
 
 1. **[Big Data](#big-data)** - *2 wks* - Code.org Unit 4: Big Data and Privacy, [https://studio.code.org/s/csp4-2018](https://studio.code.org/s/csp4-2018), Explore v2
 
-3rd Quarter 
+[3rd Quarter](#3rd-quarter)
 
 1. **[Explore](#explore)** - *2 wks* - Explore - AP Performance Task Prep, Final Explore
 
@@ -32,7 +32,7 @@
 
 1. **[Tk2](#tk2)** - *3 wks* - advanced Python Tkinter apps, dictionaries, objects, classes, writing files, reading files
 
-4th Quarter
+[4th Quarter](#4th-quarter)
 
 1. **[Create](#create)** - *3 wks* - Create - AP Performance Task Prep, Final Create
 
@@ -40,8 +40,9 @@
 
 1. **[Java](#java)** - *3 wks* - input, output, objects, classes
 
+# 1st Quarter
 
-# Scratch
+## Scratch
 
 [001AboutMe](001AboutMe.md)
 
@@ -57,11 +58,11 @@ Either [008 Hungry Bug](008HungryBug.md) or [009 Racing Game](009RacingGame.md)
 
 [011ScratchFreedomOfChoice.md](011ScratchFreedomOfChoice.md)
 
-# Tk1
+## Tk1
 
 Pair - [100Tk1CreateReflectV1.md]
 
-# Binary
+## Binary
 
 Counting with Coins
 
@@ -71,7 +72,7 @@ Hexadecimal
 
 Explore 1 - [027BigDataOnePageReport.md](027BigDataOnePageReport.md)
 
-# Turtle art
+## Turtle art
 
 [012TurtleSimpleDrawing.md](012TurtleSimpleDrawing.md)
 
@@ -98,15 +99,21 @@ Pair - [021TurtleArtScene1.md](021TurtleArtScene1.md)
 
 [017TurtleStars2.md](017TurtleStars2.md)
 
-# IP
+# 2nd Quarter
 
-# Scrum
+## IP
 
-# Digital Info
+## Scrum
+
+[034ScrumArtScene2.md](034ScrumArtScene2.md)
+
+[035ScrumArtScene3.md](035ScrumArtScene3.md)
+
+## Digital Info
 
 bytes, kilobytes, megabytes, gigabytes
 
-# Console
+## Console
 
 [023Pseudocode3PPong.md](023Pseudocode3PPong.md)
 
@@ -124,18 +131,40 @@ bytes, kilobytes, megabytes, gigabytes
 
 [032ConsoleTriviaHighLow.md](032ConsoleTriviaHighLow.md)
 
-# Big Data
+## Big Data
 
-# Explore
+Explore 2 - [036ExploreV2PhotoCollageArtifact](036ExploreV2PhotoCollageArtifact.md)
 
-# Text Games
+# 3rd Quarter
 
-# Turtle Games
+## Explore
 
-# Tk2
+[042ExploreTaskArtifact.md](042ExploreTaskArtifact.md)
 
-# Create
+[043ExploreTaskQuestions.md](043ExploreTaskQuestions.md)
 
-# Greenfoot
+## Text Games
 
-# Java
+[033TextGamesCastlesAndCreatures](033TextGamesCastlesAndCreatures.md)
+
+Group - [037TextGameFoobarV1.md](037TextGameFoobarV1.md)
+
+Group - [038TextgameFoobarv2.md](038TextgameFoobarv2.md)
+
+## Turtle Games
+
+[039Turtlegamev1.0.md](039Turtlegamev1.0.md)
+
+[040TurtleGamev2.0.md](040TurtleGamev2.0.md)
+
+[041Turtlegamev3.0.md](041Turtlegamev3.0.md)
+
+## Tk2
+
+# 4th Quarter
+
+## Create
+
+## Greenfoot
+
+## Java
