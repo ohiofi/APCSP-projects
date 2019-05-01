@@ -42,6 +42,10 @@
 
 # 1st Quarter
 
+Sign up for [digitalportfolio.collegeboard.org](digitalportfolio.collegeboard.org)
+
+Commit to take the AP test by October 4th. Late fee is $40.
+
 ## Scratch
 
 [001AboutMe](001AboutMe.md)
