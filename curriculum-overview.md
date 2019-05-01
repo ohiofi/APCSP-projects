@@ -4,9 +4,9 @@
 
 1. **[Scratch](#scratch)** - *2 wks* - input, output, variable, script, conditional, loop, prompt, event listeners
 
-1. **[Tk1](#tk1)** - *2 wks* - Python Tkinter simple apps, variables, conditionals, functions, input, operators, Create v1
+1. **[Tk1](#tk1)** - *2 wks* - Python Tkinter simple apps, variables, conditionals, functions, input, operators, Create 1
 
-1. **[Binary](#binary)** - *2 wk* - Code.org Unit 1, Chapter 1: Representing and Transmitting Information, [https://studio.code.org/s/csp1-2018](https://studio.code.org/s/csp1-2018), binary, hexadecimal, ASCII, Big Data report (Explore v1)
+1. **[Binary](#binary)** - *2 wk* - Code.org Unit 1, Chapter 1: Representing and Transmitting Information, [https://studio.code.org/s/csp1-2018](https://studio.code.org/s/csp1-2018), binary, hexadecimal, ASCII, Big Data report (Explore 1)
 
 1. **[Turtle Art](#turtle-art)** - *3 wks* - Python Turtle art, loops, input, validation try/except, operators, def new functions
 
@@ -14,21 +14,21 @@
 
 1. **[IP](#ip)** - *1 wk* - Code.org Unit 1, Chapter 2: Inventing the Internet, [https://studio.code.org/s/csp1-2018](https://studio.code.org/s/csp1-2018), binary,
 
-1. **[Scrum](#scrum)** - *3 wks* - Python Turtle art generator, collaboration, iterative versions, def new functions, loops, random, colors, Create v2
+1. **[Scrum](#scrum)** - *3 wks* - Python Turtle art generator, collaboration, iterative versions, def new functions, loops, random, colors, Create 2
 
 1. **[Console](#console)** - *3 wks* - Python Console apps, input, loops, validation with try/except loop, conditionals, functions
 
-1. **[Big Data](#big-data)** - *2 wks* - Code.org Unit 4: Big Data and Privacy, [https://studio.code.org/s/csp4-2018](https://studio.code.org/s/csp4-2018), Explore v2
+1. **[Big Data](#big-data)** - *2 wks* - Code.org Unit 4: Big Data and Privacy, [https://studio.code.org/s/csp4-2018](https://studio.code.org/s/csp4-2018), Explore 2
 
 [3rd Quarter](#3rd-quarter)
 
 1. **[Explore](#explore)** - *2 wks* - Explore - AP Performance Task Prep, Final Explore
 
-1. **[Text Games](#text-games)** - *2 wks* - Python text games, arrays, Create v3
+1. **[Text Games](#text-games)** - *2 wks* - Python text games, arrays
 
 1. **[Digital Info](#digital-info)** - *1 wk* - Code.org Unit 2: Digital Information, [https://studio.code.org/s/csp2-2018](https://studio.code.org/s/csp2-2018)
 
-1. **[Turtle Games](#turtle-games)** - *2wks* - Python Turtle games, objects
+1. **[Turtle Games](#turtle-games)** - *2wks* - Python Turtle games, objects, Create 3
 
 1. **[Tk2](#tk2)** - *3 wks* - advanced Python Tkinter apps, dictionaries, objects, classes, writing files, reading files
 
@@ -46,21 +46,23 @@
 
 [001AboutMe](001AboutMe.md)
 
-Either [002BouncingOffTheWalls](002BouncingOffTheWalls.md) or [003StarHunter](003StarHunter.md)
+Either [002BouncingOffTheWalls](002BouncingOffTheWalls.md) or [003StarHunter.md](003StarHunter.md)
 
-Either [004 Walking & Basic Jumping](004WalkingAndJumping.md) or [005 Cheese Chase](005CheeseChase.md)
+Either [004WalkingAndJumping.md](004WalkingAndJumping.md) or [005CheeseChase.md](005CheeseChase.md)
 
-Either [006 Lancher Game](006LancherGame.md) or [007 Shapes & Initials](007ShapesAndInitials.md)
+Either [006LancherGame.md](006LancherGame.md) or [007ShapesAndInitials.md](007ShapesAndInitials.md)
 
-Either [008 Hungry Bug](008HungryBug.md) or [009 Racing Game](009RacingGame.md)
+Either [008HungryBug.md](008HungryBug.md) or [009RacingGame.md](009RacingGame.md)
 
-[010 Quest Health Game](010QuestHealthGame.md)
+[010QuestHealthGame.md](010QuestHealthGame.md)
 
 [011ScratchFreedomOfChoice.md](011ScratchFreedomOfChoice.md)
 
 ## Tk1
 
-Pair - [100Tk1CreateReflectV1.md]
+
+
+Create 1 - Pair - [100Tk1CreateReflectV1.md](100Tk1CreateReflectV1.md)
 
 ## Binary
 
@@ -158,6 +160,8 @@ Group - [038TextgameFoobarv2.md](038TextgameFoobarv2.md)
 [040TurtleGamev2.0.md](040TurtleGamev2.0.md)
 
 [041Turtlegamev3.0.md](041Turtlegamev3.0.md)
+
+Create 3
 
 ## Tk2
 
