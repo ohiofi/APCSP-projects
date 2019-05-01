@@ -55,6 +55,8 @@ Either [008 Hungry Bug](008HungryBug.md) or [009 Racing Game](009RacingGame.md)
 
 [010 Quest Health Game](010QuestHealthGame.md)
 
+[011ScratchFreedomOfChoice.md](011ScratchFreedomOfChoice.md)
+
 # Tk1
 
 Pair - [100Tk1CreateReflectV1.md]
@@ -67,7 +69,34 @@ Binary
 
 Hexadecimal
 
+Explore 1 - [027BigDataOnePageReport.md](027BigDataOnePageReport.md)
+
 # Turtle art
+
+[012TurtleSimpleDrawing.md](012TurtleSimpleDrawing.md)
+
+[025TurtleDrawingsAtRandomLocations.md](025TurtleDrawingsAtRandomLocations.md)
+
+[026TurtleBlockLetters.md](026TurtleBlockLetters.md)
+
+[013TurtlePolygons.md](013TurtlePolygons.md)
+
+[014TurtleHowManySquares.md](014TurtleHowManySquares.md)
+
+[015TurtleRandomShapes.md](015TurtleRandomShapes.md)
+
+[018TurtleMandalaArt.md](018TurtleMandalaArt.md)
+
+[019TurtleDrawingAlgorithm.md](019TurtleDrawingAlgorithm.md)
+
+[020TurtleBouncingOffWalls.md](020TurtleBouncingOffWalls.md)
+
+Pair - [021TurtleArtScene1.md](021TurtleArtScene1.md)
+
+
+[016TurtleStars1.md](016TurtleStars1.md)
+
+[017TurtleStars2.md](017TurtleStars2.md)
 
 # IP
 
@@ -78,6 +107,22 @@ Hexadecimal
 bytes, kilobytes, megabytes, gigabytes
 
 # Console
+
+[023Pseudocode3PPong.md](023Pseudocode3PPong.md)
+
+[022ConsoleTemps.md](022ConsoleTemps.md)
+
+[024ConsoleMultiChoiceQuizGame](024ConsoleMultiChoiceQuizGame.md)
+
+[028ConsoleFillInTheBlankQuizGame.md](028ConsoleFillInTheBlankQuizGame.md)
+
+[029ConsoleTipCalculator.md](029ConsoleTipCalculator.md)
+
+[030Console2DGeometryCalculation](030Console2DGeometryCalculation.md)
+
+[031ConsoleHourlyAndYearlyWages](031ConsoleHourlyAndYearlyWages.md)
+
+[032ConsoleTriviaHighLow.md](032ConsoleTriviaHighLow.md)
 
 # Big Data
 
