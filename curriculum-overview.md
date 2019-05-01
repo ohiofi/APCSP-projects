@@ -2,7 +2,7 @@
 
 1st Quarter 
 
-1. **Scratch** - *2 wks* - input, output, variable, script, conditional, loop, prompt, event listener
+1. [**Scratch**](#scratch) - *2 wks* - input, output, variable, script, conditional, loop, prompt, event listener
 
 1. **Tk simple apps** - *2 wks* - variables, conditionals, functions, input, operators
 
@@ -37,3 +37,7 @@
 1. **Greefoot** - *3 wks* - objects, classes
 
 1. **Java** - *3 wks* - input, output, objects, classes
+
+
+# Scratch
+
