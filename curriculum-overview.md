@@ -2,17 +2,17 @@
 
 1st Quarter 
 
-1. [**Scratch**](#scratch) - *2 wks* - input, output, variable, script, conditional, loop, prompt, event listener
+1. **[Scratch]**(#scratch) - *2 wks* - input, output, variable, script, conditional, loop, prompt, event listener
 
-1. **Tk simple apps** - *2 wks* - variables, conditionals, functions, input, operators
+1. **[Tk1](#tk1)** - *2 wks* - Tkinter simple apps, variables, conditionals, functions, input, operators
 
-1. **Code.org Unit 1, Chapter 1: Representing and Transmitting Information** - *1 wk*
+1. **[Binary](#binary)** - *2 wk* - Code.org Unit 1, Chapter 1: Representing and Transmitting Information, [https://studio.code.org/s/csp1-2018](https://studio.code.org/s/csp1-2018), binary, hexadecimal, ASCII
 
-1. **Turtle shapes** - *3 wks* - loops, input, validation try/except, operators
-
-1. **Code.org Unit 1, Chapter 2: Inventing the Internet** - *1 wk*
+1. **[Turtle art](#turtle-art)** - *3 wks* - loops, input, validation try/except, operators, def new functions
 
 2nd Quarter 
+
+1. **Code.org Unit 1, Chapter 2: Inventing the Internet** - *1 wk*
 
 1. **Scrum** - *3 wks* - Turtle art generator, collaboration, iterative versions, def new functions, loops, random, colors
 
@@ -28,7 +28,7 @@
 
 1. **Games** - *4 wks* - text games, arrays, turtle games, objects
 
-1. **Tk advanced** - *3 wks* - dictionaries, objects, classes
+1. **Tk2** - *3 wks* - advanced Tkinter apps, dictionaries, objects, classes, writing files, reading files
 
 4th Quarter
 
@@ -41,3 +41,10 @@
 
 # Scratch
 
+# Tk1
+
+# Binary
+
+Counting with Coins
+
+# Turtle art
