@@ -26,7 +26,9 @@
 
 1. **Explore - AP Performance Task Prep** - *2 wks*
 
-1. **Games** - *4 wks* - text games, arrays, turtle games, objects
+1. **Text Games** - *2 wks* - text games, arrays
+
+1. **Turtle Games** - *2wks* - turtle games, objects
 
 1. **Tk2** - *3 wks* - advanced Tkinter apps, dictionaries, objects, classes, writing files, reading files
 
@@ -47,4 +49,32 @@
 
 Counting with Coins
 
+Binary
+
+Hexadecimal
+
 # Turtle art
+
+# Internet
+
+# Scrum
+
+# Digital Information
+
+# Console
+
+# Big Data
+
+# Explore
+
+# Text Games
+
+# Turtle Games
+
+# Tk2
+
+# Create
+
+# Greenfoot
+
+# Java
