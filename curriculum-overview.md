@@ -43,6 +43,18 @@
 
 # Scratch
 
+[001 About Me](001%20About%20Me.md)
+
+Either [002 Bouncing Off the Walls.md](https://github.com/ohiofi/APCSP-projects/blob/master/002%20Bouncing%20Off%20the%20Walls.md) or [003 Star Hunter](https://github.com/ohiofi/APCSP-projects/blob/master/003%20Star%20Hunter.md)
+
+Either [004 Walking & Basic Jumping]() or [005 Cheese Chase]()
+
+Either [006 Lancher Game]() or [007 Shapes & Initials]()
+
+Either [008 Hungry Bug]() or [009 Racing Game]()
+
+[010 Quest Health Game]()
+
 # Tk1
 
 # Binary
