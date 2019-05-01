@@ -57,7 +57,7 @@ Either [008 Hungry Bug](008HungryBug.md) or [009 Racing Game](009RacingGame.md)
 
 # Tk1
 
-Pair - [](100Tk1CreateReflectV1.md)
+Pair - [100Tk1CreateReflectV1.md]
 
 # Binary
 
