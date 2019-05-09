@@ -45,6 +45,6 @@ Correct!
 ```
 -=-=-=-=-=-=-=-=-=-
 
-GOLD MEDAL: Your askQuestion function uses only 7 lines of code.
+GOLD MEDAL: Your entire project uses only 7 lines of code.
 
 ![goldmedal](/threeQuestions.jpg)
