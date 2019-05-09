@@ -15,15 +15,6 @@ Creating Your Game
 
 
 
-
-
-
-
-
-
-
-
-
 Requirements
 Include the following information in your dialogue.
 * Ask "What's your name?"
@@ -35,3 +26,4 @@ Include the following information in your dialogue.
 *	Your least favorite part of the school day
 *	Activities/Athletics in which you plan to participate
 *	Anything else you would like to share
+* Say "Goodbye _____"
