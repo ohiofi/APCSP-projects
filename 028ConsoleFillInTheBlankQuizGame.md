@@ -17,7 +17,7 @@ Create a new game that asks a minimum of 5 questions. Choose a topic for your qu
 
 Requirements:
 
-Define a function called checkAnswer with two parameters: question and answer. Inside this function will be:
+Define a function called checkAnswer. It requires two parameters: question and answer. It does not return a value. Inside this function will be:
 - a while True loop
   - ask the question
   - collect user input
