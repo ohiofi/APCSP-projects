@@ -9,7 +9,7 @@ Create a function called randomVolume that:
 
 Create a function called isVolumeAbove65. It requires one parameter: volume. It returns either True if the volume is above 65, otherwise it returns False.
 
-Create a function called isNight. It requires on parameter: time. It returns True if the time is after 10pm or the time is before 7:30am, otherwise it returns False.
+Create a function called isNight. It requires one parameter: time. It returns True if the time is after 10pm or the time is before 7:30am, otherwise it returns False.
 
 Create a function called buttonPress that:
 - gets the text from volumeLabel, like this: volumeLabel.cget("text") and save it in a volume variable
