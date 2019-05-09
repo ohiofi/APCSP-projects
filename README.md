@@ -30,7 +30,7 @@
 
 1. **[Turtle Games](#turtle-games)** - *2wks* - Python Turtle games, objects, Create 3
 
-1. **[Tk2](#tk2)** - *3 wks* - advanced Python Tkinter apps, dictionaries, objects, classes, writing files, reading files
+1. **[Tk](#tk)** - *3 wks* - advanced Python Tkinter apps, dictionaries, objects, classes, writing files, reading files
 
 [4th Quarter](#4th-quarter)
 
@@ -169,7 +169,7 @@ Group - [038TextgameFoobarv2.md](apcspfiles/038TextgameFoobarv2.md)
 
 Create 3
 
-## Tk2
+## Tk
 
 [044WeirdCalculatorInputValidationReview.md](apcspfiles/044WeirdCalculatorInputValidationReview.md)
 
