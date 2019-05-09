@@ -19,7 +19,7 @@ Requirements
 Include the following information in your dialogue.
 * Ask "What's your name?"
 * Say "Hello _____" using the user's answer
-*	Say your name
+*	Say your name. For example, "My name is Justin Riley"
 *	Why you are taking this class
 *	Your current career aspirations
 *	Your favorite part of the school day
