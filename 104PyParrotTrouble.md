@@ -1,13 +1,13 @@
 In this project you will use random ints, integer conversion, if and else, and logical operators
 
-We own a loud squawking parrot. A new noise ordinance prohibits noise louder than 55 decibels from 10 p.m. to 7:30 a.m. AND noise louder than 65 decibels during all other hours of the day. 
+We own a loud squawking parrot. A new noise ordinance prohibits noise louder than 55 decibels from 10 p.m. to 7:30 a.m. AND noise louder than 75 decibels during all hours of the day. 
  
 
 Create a function called randomVolume that:
 - generates a random integer between 0 and 100
 - sets the text from volumeLabel, like this: volumeLabel['text'] = 5
 
-Create a function called isVolumeAbove65. It requires one parameter: volume. It returns either True if the volume is above 65, otherwise it returns False.
+Create a function called isVolumeAbove75. It requires one parameter: volume. It returns either True if the volume is above 65, otherwise it returns False.
 
 Create a function called isNight. It requires one parameter: time. It returns True if the time is after 10pm or the time is before 7:30am, otherwise it returns False.
 
