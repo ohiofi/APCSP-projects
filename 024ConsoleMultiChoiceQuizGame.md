@@ -28,9 +28,10 @@ Say "Correct"
 
 You should know what to do for the remaining 2 questions. Rather than starting over and re-typing the code for each question... you might want to copy and paste the code for question 1 and just change some details.
 
-Here is a Sample Run. User input is in bold
+Here is a Sample Run
 ```
-This is a Multiple Choice Quiz Game with 3 Questions. You will answer each question by typing the correct letter: 1, 2, or 3.
+This is a Multiple Choice Quiz Game with 3 Questions.
+You will answer each question by typing the correct letter: a, b, or c.
 What language is this coded in? a = Python b = Scratch c = Roblox script b
 Try again.
 What language is this coded in? a = Python b = Scratch c = Roblox script a
