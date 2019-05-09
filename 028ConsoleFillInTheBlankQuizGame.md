@@ -39,9 +39,9 @@ Sample Output
 ```
 Console Fill In The Blank Quiz Game
 Answer the following five questions.
-a broad term for datasets so large or complex that traditional data processing applications are inadequate is ___ ____: big boss
+___ ____ is a term for datasets so large/complex that traditional data processing is inadequate: big boss
 incorrect. your score is -3
-a broad term for datasets so large or complex that traditional data processing applications are inadequate is ___ ____: big data
+___ ____ is a term for datasets so large/complex that traditional data processing is inadequate: big data
 correct. your score is 2
 a variable that can only be true or false is: integer
 incorrect. your score is -1
