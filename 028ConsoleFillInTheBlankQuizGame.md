@@ -48,3 +48,7 @@ correct. your score is 4
 U.S. military department that created the Internet for scientific and military communications is: the meme army
 incorrect. your score is 1
 ```
+
+-=-=-=-=-=-=-=-=-=-
+
+GOLD MEDAL CHALLENGE: Add a global variable called lives. The player starts with 3 lives and loses 1 life with each incorrect answer. After an incorrect answer tell the player how many lives they have remaining. If they ever have 0 lives remaining, then exit the program.
