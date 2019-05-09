@@ -19,14 +19,16 @@ Requirements:
 
 Define a function called checkAnswer with two parameters: question and answer. Inside this function will be:
 - a while True loop
-- ask the question
-- collect user input and convert it to lowercase letters
-- if the user input equals the answer:(NOTICE: THIS PLACES THE CONDITION AT THE END OF THE LOOP)
-  - add a large amount to the score
-  - say correct, your score is ___ 
-- else:
-  - subtract a small amount from the score
-  - say incorrect, your score is ___ 
+  - ask the question
+  - collect user input
+  - convert the user input to lowercase letters
+  - if the user input equals the answer (NOTICE: THIS PLACES THE CONDITION AT THE END OF THE LOOP)
+    - add a large amount to the score
+    - say correct, your score is ___ 
+    - break the loop
+  - else:
+    - subtract a small amount from the score
+    - say incorrect, your score is ___ 
 
 Display instructions for the player.
 Create at least 5 "Fill in the Blank" style questions.
