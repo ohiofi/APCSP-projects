@@ -2,7 +2,7 @@
 
 Based on Dog's Dinner
 
-(Tutorial PDF)[apcspfiles/ScratchPlatformer.pdf]
+[Tutorial PDF](apcspfiles/ScratchPlatformer.pdf)
 
 - Simulate gravity
 - Reset the player to the starting location if they fall below the bottom of the screen
