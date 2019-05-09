@@ -40,15 +40,15 @@ Sample Output
 Console Fill In The Blank Quiz Game
 Answer the following five questions.
 ___ ____ is a term for datasets so large/complex that traditional data processing is inadequate: big boss
-incorrect. your score is -3
+incorrect, your score is -3
 ___ ____ is a term for datasets so large/complex that traditional data processing is inadequate: big data
-correct. your score is 2
+correct, your score is 2
 a variable that can only be true or false is: integer
-incorrect. your score is -1
+incorrect, your score is -1
 a variable that can only be true or false is: boolean
-correct. your score is 4
+correct, your score is 4
 U.S. military department that created the Internet for scientific and military communications is: the meme army
-incorrect. your score is 1
+incorrect, your score is 1
 ```
 
 -=-=-=-=-=-=-=-=-=-
