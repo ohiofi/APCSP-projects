@@ -46,6 +46,6 @@ Correct!
 ```
 -=-=-=-=-=-=-=-=-=-
 
-GOLD MEDAL: Your entire project uses only 7 lines of code.
+GOLD MEDAL CHALLENGE: Your entire project uses only 7 lines of code.
 
 ![goldmedal](/threeQuestions.jpg)
