@@ -58,7 +58,7 @@ Either [006LancherGame.md](apcspfiles/006LancherGame.md) or [007ShapesAndInitial
 
 Either [008HungryBug.md](apcspfiles/008HungryBug.md) or [009RacingGame.md](apcspfiles/009RacingGame.md)
 
-[010QuestHealthGame.md](apcspfiles/010QuestHealthGame.md)
+Either [010QuestHealthGame.md](apcspfiles/010QuestHealthGame.md) or [102ScratchPlatformer.md](apcspfiles/102ScratchPlatformer.md)
 
 [011ScratchFreedomOfChoice.md](apcspfiles/011ScratchFreedomOfChoice.md)
 
