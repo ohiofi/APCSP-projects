@@ -7,22 +7,22 @@ Create a function called randomVolume that:
 - generates a random integer between 0 and 100
 - sets the text from volumeLabel, like this: volumeLabel['text'] = 5
 
-Create a function called isVolumeAbove75. It requires one parameter: volume. It returns either True if the volume is above 65, otherwise it returns False.
+Create a function called isVolumeAboveLimit. It requires two parameters: volume and limit. It returns either True if the volume is above the limit, otherwise it returns False.
 
 Create a function called isNight. It requires one parameter: time. It returns True if the time is after 10pm or the time is before 7:30am, otherwise it returns False.
 
-Create a function called buttonPress that:
+Create a function called buttonPress that
 - gets the text from volumeLabel, like this: volumeLabel.cget("text") and save it in a volume variable
 - convert the volume variable to a number
-- if isVolumeAbove75:
+- if isVolumeAboveLimit(volume,75)
   - create a popup that says "Quiet down! You are much too loud!"
   - return
 - get the current time from timeEntry, like this: timeEntry.get() and save it in a time variable
 - convert the time variable to a number
-- if the volume is greater than 55 and isNight:
+- if isNight and isVolumeAboveLimit(volume,55)
   - create a popup that says "Shhhhh! People are trying to sleep"
   - return
-  else:
+  else
   - create a popup that says "Good bird. Polly want a cracker?"
   - return
 
