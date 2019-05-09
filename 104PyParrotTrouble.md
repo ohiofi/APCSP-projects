@@ -14,7 +14,7 @@ Create a function called isNight. It requires one parameter: time. It returns Tr
 Create a function called buttonPress that:
 - gets the text from volumeLabel, like this: volumeLabel.cget("text") and save it in a volume variable
 - convert the volume variable to a number
-- if isVolumeAbove65:
+- if isVolumeAbove75:
   - create a popup that says "Quiet down! You are much too loud!"
   - return
 - get the current time from timeEntry, like this: timeEntry.get() and save it in a time variable
