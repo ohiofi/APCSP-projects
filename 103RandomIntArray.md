@@ -1,8 +1,11 @@
 RandomIntArray
 
-Create an array that stores 20 randomly generated positive integers.
+Concepts: arrays, random numbers, for loop, for each loop, modulus
+
+- Create an array
+- Using a for loop, randomly generate 20 positive integers and append them to the array
 - Print a line that says "Full Array"
-- Print the full contents of the array using for i in range
+- Print the full contents of the array using a for loop
 
 For the next section, you will choose to do either: Odd Integers or Even Integers.
 Here is an example of what you would do for Odd Integers...
