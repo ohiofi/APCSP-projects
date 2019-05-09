@@ -4,7 +4,7 @@
 
 1. **[Scratch](#scratch)** - *2 wks* - input, output, variable, script, conditional, loop, prompt, event listeners
 
-1. **[Tk1](#tk1)** - *2 wks* - Python Tkinter simple apps, variables, conditionals, functions, input, operators, Create 1
+1. **[Py](#py)** - *2 wks* - Python Tkinter simple apps, variables, conditionals, functions, input, operators, Create 1
 
 1. **[Binary](#binary)** - *2 wk* - Code.org Unit 1, Chapter 1: Representing and Transmitting Information, [https://studio.code.org/s/csp1-2018](https://studio.code.org/s/csp1-2018), binary, hexadecimal, ASCII, Big Data report (Explore 1)
 
@@ -62,9 +62,11 @@ Either [008HungryBug.md](008HungryBug.md) or [009RacingGame.md](009RacingGame.md
 
 [011ScratchFreedomOfChoice.md](011ScratchFreedomOfChoice.md)
 
-## Tk1
+## Py
 
+Either 2D Geometry area calculator or 3D Volume calculator
 
+Parrot Trouble
 
 Create 1 - Pair - [100Tk1CreateReflectV1.md](100Tk1CreateReflectV1.md)
 
