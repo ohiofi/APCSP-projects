@@ -18,7 +18,7 @@ Creating Your Game
 Requirements
 Include the following information in your dialogue.
 * Ask "What's your name?"
-* Say "Hello _____"
+* Say "Hello _____" using their answer
 *	Say your name
 *	Why you are taking this class
 *	Your current career aspirations
@@ -26,4 +26,4 @@ Include the following information in your dialogue.
 *	Your least favorite part of the school day
 *	Activities/Athletics in which you plan to participate
 *	Anything else you would like to share
-* Say "Goodbye _____"
+* Say "Goodbye _____" using their answer
