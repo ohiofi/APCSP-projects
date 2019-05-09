@@ -21,7 +21,7 @@ Output should be formatted properly and arranged as seen below.
 - %03d add a zero (0) after the % symbol to zero-fill your printf integer output. For example, 001
 
 Sample Output (user input is in **BOLD** and should not be coded into your program)
-'''Investment Calculator
+```Investment Calculator
 Calculate how many years would it take to double
 your savings if you earn simple interest annually
 
@@ -40,4 +40,4 @@ Year        Balance
 07          $9641.32
 
 It will take 7 years at 11.5% interest.
-'''
+```
