@@ -18,7 +18,10 @@ Creating Your Game
 Requirements
 Include the following information in your dialogue.
 * Ask "What's your name?"
-* Say "Hello _____" using the user's answer
+* If the user's answer equals "Mr Riley"
+  * Change the color effect by 25
+* Otherwise
+  * Say "Hello _____" using the user's answer
 *	Say your name. For example, "My name is Justin Riley"
 *	Why you are taking this class
 *	Your current career aspirations
