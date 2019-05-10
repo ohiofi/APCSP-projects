@@ -35,7 +35,7 @@ Sign up for [digitalportfolio.collegeboard.org](digitalportfolio.collegeboard.or
 Commit to take the AP test by October 4th. Late fee is $40.
 
 ## Scratch
-- *2 wks* - input, output, variable, script, conditional, loop, prompt, event listeners
+- *2 wks* - Vocab: input, output, variable, string, int, boolean, script, conditional, loop, prompt, event listeners
 
 
 [001AboutMe](apcspfiles/001AboutMe.md)
@@ -55,17 +55,25 @@ Either [010QuestHealthGame.md](apcspfiles/010QuestHealthGame.md) or [102ScratchP
 [011ScratchFreedomOfChoice.md](apcspfiles/011ScratchFreedomOfChoice.md)
 
 ## Py
-- *2 wks* - Python Tkinter simple apps, variables, conditionals, functions, input, operators, Create 1
+- *2 wks* - Vocab: syntax, syntax error, variable, assignment, mathmatical operator, comparison operator, conditionals, function def, function call, input, argument, string, int, boolean, division by zero, comment, camelCase, scope, local variable, magic numbers, return, 
+
+Install Python Mu IDE: [https://codewith.mu/](https://codewith.mu/)
+
+Python Tkinter simple apps, Create 1
 
 
-Either 2D Geometry Area Calculator or 3D Volume Calculator
+Either Py2DGeometry or Py3DVolume
 
-Parrot Trouble
+PyFoodOrderCalculator
+
+PyParrotTrouble
 
 Create 1 - Pair - [100Tk1CreateReflectV1.md](apcspfiles/100Tk1CreateReflectV1.md)
 
 ## Binary
-- *2 wk* - Code.org Unit 1, Chapter 1: Representing and Transmitting Information, [https://studio.code.org/s/csp1-2018](https://studio.code.org/s/csp1-2018), binary, hexadecimal, ASCII, Big Data report (Explore 1)
+- *2 wk* - Vocab: binary, hexadecimal, ASCII, Big Data
+
+Code.org Unit 1, Chapter 1: Representing and Transmitting Information, [https://studio.code.org/s/csp1-2018](https://studio.code.org/s/csp1-2018)
 
 Counting with Coins
 
@@ -76,7 +84,7 @@ Hexadecimal
 Explore 1 - [027BigDataOnePageReport.md](apcspfiles/027BigDataOnePageReport.md)
 
 ## Turtle Art
-- *3 wks* - Python Turtle art, loops, input, validation try/except, operators, def new functions
+- *3 wks* - Vocab: turtle, for loops, input, validation, try/except, operators, def new functions, random, algorithm, instance, instanciate, object, class, method,
 
 [012TurtleSimpleDrawing.md](apcspfiles/012TurtleSimpleDrawing.md)
 
@@ -115,7 +123,7 @@ Pair - [021TurtleArtScene1.md](apcspfiles/021TurtleArtScene1.md)
 
 
 ## Console
-- *3 wks* - Python Console apps, input, loops, validation with try/except loop, conditionals, functions
+- *3 wks* - Vocab: array, iteration, iterate through an array, input, for each loops, input validation, try/except, conditionals, functions, preconditional loop, postconditional loop, pseudocode,
 
 [023Pseudocode3PPong.md](apcspfiles/023Pseudocode3PPong.md)
 
@@ -148,7 +156,7 @@ Explore 2 - [036ExploreV2PhotoCollageArtifact](apcspfiles/036ExploreV2PhotoColla
 [043ExploreTaskQuestions.md](apcspfiles/043ExploreTaskQuestions.md)
 
 ## Text Games
-- *2 wks* - Python text games, arrays
+- *2 wks* - Python text games, arrays, logical operators, two-dimensional array, global variables, runtime error, syntax error, while loop
 
 [033TextGamesCastlesAndCreatures](apcspfiles/033TextGamesCastlesAndCreatures.md)
 
@@ -164,7 +172,7 @@ Group - [038TextgameFoobarv2.md](apcspfiles/038TextgameFoobarv2.md)
 bytes, kilobytes, megabytes, gigabytes
 
 ## Turtle Games
-- *2wks* - Python Turtle games, objects, Create 3
+- *2wks* - instance, instanciate, object, class, method, logical operators, while loop
 
 [039Turtlegamev1.0.md](apcspfiles/039Turtlegamev1.0.md)
 
@@ -175,7 +183,7 @@ bytes, kilobytes, megabytes, gigabytes
 Create 3
 
 ## Tk
-- *3 wks* - advanced Python Tkinter apps, dictionaries, objects, classes, writing files, reading files
+- *3 wks* - canvas, dictionary, objects, classes, writing files, reading files, logical operators
 
 [044WeirdCalculatorInputValidationReview.md](apcspfiles/044WeirdCalculatorInputValidationReview.md)
 
