@@ -121,6 +121,7 @@ Pair - [021TurtleArtScene1.md](apcspfiles/021TurtleArtScene1.md)
 
 [035ScrumArtScene3.md](apcspfiles/035ScrumArtScene3.md)
 
+Create 2
 
 ## Console
 - *3 wks* - Vocab: array, iteration, iterate through an array, input, for each loops, input validation, try/except, conditionals, functions, preconditional loop, postconditional loop, pseudocode,
