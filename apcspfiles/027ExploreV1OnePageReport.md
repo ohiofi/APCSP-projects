@@ -17,17 +17,17 @@ You should choose an innovation related to big data that you find personally rel
 Brainstorming
 
 Start by simply going to [Google News (news.google.com)](https://news.google.com/?hl=en-US&gl=US&ceid=US:en) and entering the name of a thing you are interested in, followed by the word “data” or “big data.” For example: “soccer big data,” “shopping big data,” “music big data.” It might take some poking around, but you will find a few interesting things. Make sure you can easily find at least one or two reputable sources for your innovation and how it uses data. Other Ideas:
-● Smart grids, smart buildings, smart homes
-● The data behind your favorite app
-● Online shopping trends/recommendations
-● Crowdsourcing
-● Crowd source inventions and funding (Kickstarter, Quirky, GoFundMe)
-● reCAPTCHA
-● GWAPs - Games With A Purpose
-● Assistive technologies - aiding human vision, hearing, movement, etc.
-● Machine learning
-● Sports analytics
-● Any kind of science: physics, biology, chemistry, astronomy, etc.
+- Smart grids, smart buildings, smart homes
+- The data behind your favorite app
+- Online shopping trends/recommendations
+- Crowdsourcing
+- Crowd source inventions and funding (Kickstarter, Quirky, GoFundMe)
+- reCAPTCHA
+- GWAPs - Games With A Purpose
+- Assistive technologies - aiding human vision, hearing, movement, etc.
+- Machine learning
+- Sports analytics
+- Any kind of science data - physics, biology, chemistry, astronomy, etc.
 
 Conducting Your Research
 
