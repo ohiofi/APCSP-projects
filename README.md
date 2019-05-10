@@ -67,7 +67,8 @@ Either [010QuestHealthGame.md](apcspfiles/010QuestHealthGame.md) or [102ScratchP
 [011ScratchFreedomOfChoice.md](apcspfiles/011ScratchFreedomOfChoice.md)
 
 ## Py
-*2 wks*
+- *2 wks* - Python Tkinter simple apps, variables, conditionals, functions, input, operators, Create 1
+
 
 Either 2D Geometry Area Calculator or 3D Volume Calculator
 
@@ -76,6 +77,7 @@ Parrot Trouble
 Create 1 - Pair - [100Tk1CreateReflectV1.md](apcspfiles/100Tk1CreateReflectV1.md)
 
 ## Binary
+- *2 wk* - Code.org Unit 1, Chapter 1: Representing and Transmitting Information, [https://studio.code.org/s/csp1-2018](https://studio.code.org/s/csp1-2018), binary, hexadecimal, ASCII, Big Data report (Explore 1)
 
 Counting with Coins
 
@@ -86,6 +88,7 @@ Hexadecimal
 Explore 1 - [027BigDataOnePageReport.md](apcspfiles/027BigDataOnePageReport.md)
 
 ## Turtle Art
+- *3 wks* - Python Turtle art, loops, input, validation try/except, operators, def new functions
 
 [012TurtleSimpleDrawing.md](apcspfiles/012TurtleSimpleDrawing.md)
 
@@ -113,8 +116,10 @@ Pair - [021TurtleArtScene1.md](apcspfiles/021TurtleArtScene1.md)
 # 2nd Quarter
 
 ## IP
+- *1 wk* - Code.org Unit 1, Chapter 2: Inventing the Internet, [https://studio.code.org/s/csp1-2018](https://studio.code.org/s/csp1-2018), binary,
 
 ## Scrum
+- *3 wks* - Python Turtle art generator, collaboration, iterative versions, def new functions, loops, random, colors, Create 2
 
 [034ScrumArtScene2.md](apcspfiles/034ScrumArtScene2.md)
 
@@ -122,6 +127,7 @@ Pair - [021TurtleArtScene1.md](apcspfiles/021TurtleArtScene1.md)
 
 
 ## Console
+- *3 wks* - Python Console apps, input, loops, validation with try/except loop, conditionals, functions
 
 [023Pseudocode3PPong.md](apcspfiles/023Pseudocode3PPong.md)
 
@@ -140,18 +146,21 @@ Pair - [021TurtleArtScene1.md](apcspfiles/021TurtleArtScene1.md)
 [032ConsoleTriviaHighLow.md](apcspfiles/032ConsoleTriviaHighLow.md)
 
 ## Big Data
+- *2 wks* - Code.org Unit 4: Big Data and Privacy, [https://studio.code.org/s/csp4-2018](https://studio.code.org/s/csp4-2018), Explore 2
 
 Explore 2 - [036ExploreV2PhotoCollageArtifact](apcspfiles/036ExploreV2PhotoCollageArtifact.md)
 
 # 3rd Quarter
 
 ## Explore
+- *2 wks* - Explore - AP Performance Task Prep, Final Explore
 
 [042ExploreTaskArtifact.md](apcspfiles/042ExploreTaskArtifact.md)
 
 [043ExploreTaskQuestions.md](apcspfiles/043ExploreTaskQuestions.md)
 
 ## Text Games
+- *2 wks* - Python text games, arrays
 
 [033TextGamesCastlesAndCreatures](apcspfiles/033TextGamesCastlesAndCreatures.md)
 
@@ -161,10 +170,13 @@ Group - [038TextgameFoobarv2.md](apcspfiles/038TextgameFoobarv2.md)
 
 
 ## Digital Info
+- *1 wk* - Code.org Unit 2: Digital Information, [https://studio.code.org/s/csp2-2018](https://studio.code.org/s/csp2-2018)
+
 
 bytes, kilobytes, megabytes, gigabytes
 
 ## Turtle Games
+- *2wks* - Python Turtle games, objects, Create 3
 
 [039Turtlegamev1.0.md](apcspfiles/039Turtlegamev1.0.md)
 
@@ -175,6 +187,7 @@ bytes, kilobytes, megabytes, gigabytes
 Create 3
 
 ## Tk
+- *3 wks* - advanced Python Tkinter apps, dictionaries, objects, classes, writing files, reading files
 
 [044WeirdCalculatorInputValidationReview.md](apcspfiles/044WeirdCalculatorInputValidationReview.md)
 
@@ -187,7 +200,10 @@ Create 3
 # 4th Quarter
 
 ## Create
+- *3 wks* - Create - AP Performance Task Prep, Final Create
 
 ## Greenfoot
+- *3 wks* - objects, classes
 
 ## Java
+- *3 wks* - input, output, objects, classes
