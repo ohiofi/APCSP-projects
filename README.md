@@ -47,7 +47,8 @@ Sign up for [digitalportfolio.collegeboard.org](digitalportfolio.collegeboard.or
 Commit to take the AP test by October 4th. Late fee is $40.
 
 ## Scratch
-*2 wks*
+- *2 wks* - input, output, variable, script, conditional, loop, prompt, event listeners
+
 
 [001AboutMe](apcspfiles/001AboutMe.md)
 
