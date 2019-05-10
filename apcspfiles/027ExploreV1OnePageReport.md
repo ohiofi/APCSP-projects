@@ -35,10 +35,13 @@ You already have some practice finding good resources online. You’ll want to f
 
 Key Information to Find
 
-Purpose: the need, goal, or problem that led to the creation of the innovation. This is “what” the innovation was designed to do.
+- **Purpose**: the need, goal, or problem that led to the creation of the innovation. This is “what” the innovation was designed to do.
 Function: how the innovation actually accomplishes its purpose. This typically means describing the way it consumes, produces, or transforms data. This is “how” the innovation actually works.
-Effect on Society: try to find a group that has benefited from the innovation. Describe the specific impact of the innovation on them in terms of society, economy, or culture. What is a negative effect that either IS happening or COULD happen as a result of this innovation? (Do NOT bother saying "hacking")
-Sources: MUST include at least 3 news articles and the URLs for the news articles but you can use more.
+- **Effect on Society**: try to find a group that has benefited from the innovation. Describe the specific impact of the innovation on them in terms of society, economy, or culture. What is a negative effect that either IS happening or COULD happen as a result of this innovation working as intented? Do **NOT** bother saying:
+  - hacking, privacy, security
+  - it might be expensive
+  - it might glitch or not work
+- **Sources**: MUST include at least 3 news articles and the URLs for the news articles but you can use more.
 
 [Data Innovation One-Pager template](https://docs.google.com/document/d/1fybRqfbfWRYHhUGBMA_dZedXXaaVezt3gYks8gsza0E/export?format=pdf)
 
