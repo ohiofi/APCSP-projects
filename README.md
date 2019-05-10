@@ -47,6 +47,7 @@ Sign up for [digitalportfolio.collegeboard.org](digitalportfolio.collegeboard.or
 Commit to take the AP test by October 4th. Late fee is $40.
 
 ## Scratch
+*2 wks*
 
 [001AboutMe](apcspfiles/001AboutMe.md)
 
@@ -60,11 +61,14 @@ Either [008HungryBug.md](apcspfiles/008HungryBug.md) or [009RacingGame.md](apcsp
 
 Either [010QuestHealthGame.md](apcspfiles/010QuestHealthGame.md) or [102ScratchPlatformer.md](apcspfiles/102ScratchPlatformer.md)
 
+
+
 [011ScratchFreedomOfChoice.md](apcspfiles/011ScratchFreedomOfChoice.md)
 
 ## Py
+*2 wks*
 
-Either 2D Geometry area calculator or 3D Volume calculator
+Either 2D Geometry Area Calculator or 3D Volume Calculator
 
 Parrot Trouble
 
@@ -80,15 +84,13 @@ Hexadecimal
 
 Explore 1 - [027BigDataOnePageReport.md](apcspfiles/027BigDataOnePageReport.md)
 
-## Turtle art
+## Turtle Art
 
 [012TurtleSimpleDrawing.md](apcspfiles/012TurtleSimpleDrawing.md)
 
 [025TurtleDrawingsAtRandomLocations.md](apcspfiles/025TurtleDrawingsAtRandomLocations.md)
 
-[026TurtleBlockLetters.md](apcspfiles/026TurtleBlockLetters.md)
-
-[013TurtlePolygons.md](apcspfiles/013TurtlePolygons.md)
+Either [026TurtleBlockLetters.md](apcspfiles/026TurtleBlockLetters.md) or [013TurtlePolygons.md](apcspfiles/013TurtlePolygons.md)
 
 [014TurtleHowManySquares.md](apcspfiles/014TurtleHowManySquares.md)
 
@@ -117,9 +119,6 @@ Pair - [021TurtleArtScene1.md](apcspfiles/021TurtleArtScene1.md)
 
 [035ScrumArtScene3.md](apcspfiles/035ScrumArtScene3.md)
 
-## Digital Info
-
-bytes, kilobytes, megabytes, gigabytes
 
 ## Console
 
@@ -158,6 +157,11 @@ Explore 2 - [036ExploreV2PhotoCollageArtifact](apcspfiles/036ExploreV2PhotoColla
 Group - [037TextGameFoobarV1.md](apcspfiles/037TextGameFoobarV1.md)
 
 Group - [038TextgameFoobarv2.md](apcspfiles/038TextgameFoobarv2.md)
+
+
+## Digital Info
+
+bytes, kilobytes, megabytes, gigabytes
 
 ## Turtle Games
 
