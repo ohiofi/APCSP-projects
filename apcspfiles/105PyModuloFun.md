@@ -4,7 +4,13 @@ Pick 3:
 - [isDivisible](#isDivisible)
 - [isEven](#isEven)
 - [inchesToFeet](#inchesToFeet)
-- []()
+- feetToYards
+- yardsToMiles
+- ouncesToPounds
+- poundsToTons
+- teaspoonsToTablespoons
+- tablespoonsToFluidOunces
+- fluidOuncesToCups
 
 ## isDivisible
 - A function called isDivisible that requires two arguments: number and divisor. It returns True if number is divisible by the divisor.
