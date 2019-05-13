@@ -20,5 +20,6 @@ Input &rarr; Output
 
 inchesToFeet(13) &rarr; "1 ft 1 in"
 
-inchesToFeet(43) --> "3 ft 7 in"
-inchesToFeet(0) --> "0 ft 0 in"
+inchesToFeet(43) &rarr; "3 ft 7 in"
+
+inchesToFeet(0) &rarr; "0 ft 0 in"
