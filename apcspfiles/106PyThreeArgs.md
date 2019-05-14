@@ -21,7 +21,7 @@ giveSpeedingTicket(59, 55, False) #above the speed limit but not 10% above &rarr
 
 ## netPay
 Create a function called weeklyPay that requires three arguments: hourlyPay, totalHours, incomeTax.
-The function returns the employee's take-home pay (aka net pay). According to FLSA regulation, an employee "must receive overtime pay for hours worked over 40 in a workweek at a rate not less than time and one-half their regular rates of pay." If the the totalHours is over 40, then calculate both the amount earned at regular pay (the first 40 hours) and the amount earned at time and one-half (overtime hours), then subtract the incomeTax.
+The function returns the employee's take-home pay (aka net pay). According to FLSA regulation, an employee "must receive overtime pay for hours worked over 40 in a workweek at a rate not less than time and one-half their regular rates of pay." If the the totalHours is over 40, then calculate both the amount earned at regular pay (the first 40 hours) and the amount earned at time and one-half (overtime hours), then subtract the incomeTax (a percentage of their entire paycheck).
 
 ## employeeSalesBonus
 Create a function called employeeSalesBonus that requires three arguments: hourlyPay, totalHours, totalSales.
