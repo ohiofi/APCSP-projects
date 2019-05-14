@@ -9,7 +9,8 @@ Pick 3:
 - yardsToMiles
 
 - ouncesToPounds
-- poundsToTons
+- poundsToCwts
+- cwtsToTons
 
 - teaspoonsToTablespoons
 - tablespoonsToCups
