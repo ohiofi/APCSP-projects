@@ -1,7 +1,7 @@
 Pick 2:
-- giveSpeedingTicket
-- netPay
-- employeeSalesBonus
+- [giveSpeedingTicket](#giveSpeedingTicket)
+- [netPay](#netPay)
+- [employeeSalesBonus](#employeeSalesBonus)
 
 
 ## giveSpeedingTicket
