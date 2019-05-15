@@ -66,15 +66,14 @@ What if we wanted to return every line in the file, properly separated? You woul
   
 
 ```
-file = open("testfile.txt", "r")
+file = open("rosesPoem.txt", "r")
 print(file.readlines())
 ```
 
   
 The output you would get from this is:   
   
-
-**\['Hello World', 'This is our new text file', 'and this is another line.', 'Why? Because we can.'\]**
+**\['Roses are red', 'Violets are blue', 'Sugar is sweet', 'And so are you.'\]**
 
   
 Notice how each line is separated accordingly? Note that this is not the ideal way to show users the content in a file. But it's great when you want to collect information quickly for personal use during development or recall.  
