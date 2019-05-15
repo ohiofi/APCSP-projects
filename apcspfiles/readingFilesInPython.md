@@ -61,7 +61,7 @@ Including a mode argument is optional because a default value of '**r**' will be
 
 The modes are: 
 
-*   '**r**' – **Read mode** which is used when the file is only being read 
+*   '**r**' – **Read mode which is used when the file is only being read (will result in FileNotFoundError if the file doesn't exist)**
 *   'w' – Write mode which is used to edit and write new information to the file (any existing files with the same name will be erased when this mode is activated) 
 *   'a' – Appending mode, which is used to add new data to the end of the file; that is new information is automatically amended to the end 
 
@@ -69,11 +69,9 @@ So, let's take a look at a quick example. 
 
 ```
 file = open("workfile.txt","r")
-print(file)
 ```
 
-This snippet opens the file named "workfile" in reading mode. The current information stored within the file is displayed – or printed – for us to view. 
-
+This snippet opens the file named "workfile" in reading mode. 
 Once this has been done, you can move on to call the objects functions. The two most common functions are read and write.  
   
 ## FileNotFoundError
