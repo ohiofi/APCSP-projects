@@ -85,9 +85,9 @@ Closing a File
 --------------
 
   
-When you're done working, you can use the **fh.close()** command to end things. What this does is close the file completely, terminating resources in use, in turn freeing them up for the system to deploy elsewhere. 
+When you're done working, you can use the **file.close()** command to end things. What this does is close the file completely, terminating resources in use, in turn freeing them up for the system to deploy elsewhere. 
 
-It's important to understand that when you use the **fh.close()** method, any further attempts to use the file object will fail. 
+It's important to understand that when you use the **file.close()** method, any further attempts to use the file object will fail. 
 
 Notice how we have used this in several of our examples to end interaction with a file? This is good practice.  
   
