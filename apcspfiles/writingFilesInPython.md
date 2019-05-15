@@ -1,4 +1,4 @@
-Reading and Writing Files in Python
+Writing Files in Python
 ===================================
 
 Overview
