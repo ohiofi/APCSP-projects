@@ -67,8 +67,10 @@ The modes are: 
 
 So, let's take a look at a quick example. 
 
-**file = open("workfile.txt","r") **
-**print(file)**
+```
+file = open("workfile.txt","r")
+print(file)
+```
 
 This snippet opens the file named "workfile" in reading mode. The current information stored within the file is displayed – or printed – for us to view. 
 
@@ -91,72 +93,35 @@ There are actually a number of ways to read a text file in Python, not just one.
 If you need to extract a string that contains all characters in the file, you can use the following method:   
   
 
-**file.read() **
+```file.read()```
 
   
 The full code to work with this method will look something like this:   
   
-
-**file = open("testfile.text", "r") **
-**print file.read() **
-
-  
-The output of that command will display all the text inside the file, the same text we told the interpreter to add earlier. There's no need to write it all out again, but if you must know, everything will be shown except for the "$ cat testfile.txt" line. 
-
-Another way to read a file is to call a certain number of characters.  
-
-For example, with the following code the interpreter will read the first five characters of stored data and return it as a string:   
-  
-
-**file = open("testfile.txt", "r")
- 
-**print file.read(5) ****
+```
+file = open("testfile.text", "r")
+mystring = file.read()
+print(mystring)
+```
 
   
-Notice how we're using the same file.read() method, only this time we specify the number of characters to process? 
+The output of that command will display all the text inside the file.
 
-The output for this will look like:   
+## Multiple lines
+
+What if we wanted to return every line in the file, properly separated? You would use the same function, only in a new form. This is called the file.readlines() function.   
   
 
-**Hello **
-
-If you want to read a file line by line – as opposed to pulling the content of the entire file at once – then you use the readline() function. 
-
-Why would you use something like this? 
-
-Let's say you only want to see the first line of the file – or the third. You would execute the readline() function as many times as possible to get the data you were looking for. 
-
-Each time you run the method, it will return a string of characters that contains a single line of information from the file.   
-  
-
-**file = open("testfile.txt", "r") **
-**print file.readline(): **
-
-  
-This would return the first line of the file, like so:   
-  
-
-**Hello World **
-
-  
-If we wanted to return only the third line in the file, we would use this:   
-  
-
-**file = open("testfile.txt", "r") **
-**print file.readline(3): **
-
-  
-But what if we wanted to return every line in the file, properly separated? You would use the same function, only in a new form. This is called the file.readlines() function.   
-  
-
-**file = open("testfile.txt", "r") **
-**print file.readlines() **
+```
+file = open("testfile.txt", "r")
+print(file.readlines())
+```
 
   
 The output you would get from this is:   
   
 
-**\['Hello World', 'This is our new text file', 'and this is another line.', 'Why? Because we can.'\] **
+**\['Hello World', 'This is our new text file', 'and this is another line.', 'Why? Because we can.'\]**
 
   
 Notice how each line is separated accordingly? Note that this is not the ideal way to show users the content in a file. But it's great when you want to collect information quickly for personal use during development or recall.  
