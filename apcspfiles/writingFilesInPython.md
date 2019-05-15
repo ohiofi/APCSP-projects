@@ -3,7 +3,7 @@ Writing Files in Python
 
 The syntax to open a file object in Python is: 
 
-**file = open("filename.txt", "mode")** where **file** is the variable to add the file object. 
+**file = open("filename.txt", "mode")** 
 
 The second argument you see – **mode** – tells the interpreter and developer which way the file will be used.  
   
