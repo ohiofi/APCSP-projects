@@ -1,0 +1,169 @@
+Reading Files in Python
+===================================
+
+Overview
+--------
+
+  
+When you're working with Python, you don't need to import a library in order to read and write files. It's handled natively in the language, albeit in a unique manner.  
+  
+The first thing you'll need to do is use Python's built-in **open** function to get a **file object**.  
+  
+The **open** function opens a file. It's simple.  
+  
+When you use the **open** function, it returns something called a **file object**. **File objects** contain methods and attributes that can be used to collect information about the file you opened. They can also be used to manipulate said file.  
+  
+For example, the **mode** attribute of a **file object** tells you which mode a file was opened in. And the **name** attribute tells you the name of the file that the **file object** has opened.  
+  
+You must understand that a **file** and **file object** are two wholly separate – yet related – things.
+
+File Types
+----------
+
+  
+What you may know as a file is slightly different in Python. 
+
+In Windows, for example, a file can be any item manipulated, edited or created by the user/OS. That means files can be images, text documents, executables, and much more. Most files are organized by keeping them in individual folders. 
+
+In Python, a file is categorized as either text or binary, and the difference between the two file types is important. 
+
+Text files are structured as a sequence of lines, where each line includes a sequence of characters. This is what you know as code or syntax. 
+
+Each line is terminated with a special character, called the EOL or **End of Line** character. There are several types, but the most common is the comma {,} or newline character. It ends the current line and tells the interpreter a new one has begun. 
+
+A backslash character can also be used, and it tells the interpreter that the next character – following the slash – should be treated as a new line. This character is useful when you don't want to start a new line in the text itself but in the code. 
+
+A binary file is any type of file that is not a text file. Because of their nature, binary files can only be processed by an application that know or understand the file's structure. In other words, they must be applications that can read and interpret binary.  
+  
+
+Open ( ) Function
+-----------------
+
+  
+In order to open a file for writing or use in Python, you must rely on the built-in **open ()** function. 
+
+As explained above, **open ( )** will return a file object, so it is most commonly used with two arguments.  
+
+An argument is nothing more than a value that has been provided to a function, which is relayed when you call it. So, for instance, if we declare the name of a file as "Test File," that name would be considered an argument. 
+
+The syntax to open a file object in Python is: 
+
+**file  = open("filename", "mode")** where **file** is the variable to add the file object. 
+
+The second argument you see – **mode** – tells the interpreter and developer which way the file will be used.  
+  
+
+Mode
+----
+
+  
+Including a mode argument is optional because a default value of '**r**' will be assumed if it is omitted. The '**r**' value stands for read mode, which is just one of many. 
+
+The modes are: 
+
+*   '**r**' – **Read mode** which is used when the file is only being read 
+*   'w' – Write mode which is used to edit and write new information to the file (any existing files with the same name will be erased when this mode is activated) 
+*   'a' – Appending mode, which is used to add new data to the end of the file; that is new information is automatically amended to the end 
+
+So, let's take a look at a quick example. 
+
+**file = open("workfile","r") **
+**print(file)**
+
+This snippet opens the file named "workfile" in reading mode. The current information stored within the file is displayed – or printed – for us to view. 
+
+Once this has been done, you can move on to call the objects functions. The two most common functions are read and write.  
+  
+
+  
+Reading a Text File in Python
+--------------------------------
+
+  
+There are actually a number of ways to read a text file in Python, not just one. 
+
+If you need to extract a string that contains all characters in the file, you can use the following method:   
+  
+
+**file.read() **
+
+  
+The full code to work with this method will look something like this:   
+  
+
+**file = open("testfile.text", "r") **
+**print file.read() **
+
+  
+The output of that command will display all the text inside the file, the same text we told the interpreter to add earlier. There's no need to write it all out again, but if you must know, everything will be shown except for the "$ cat testfile.txt" line. 
+
+Another way to read a file is to call a certain number of characters.  
+
+For example, with the following code the interpreter will read the first five characters of stored data and return it as a string:   
+  
+
+**file = open("testfile.txt", "r")
+ 
+**print file.read(5) ****
+
+  
+Notice how we're using the same file.read() method, only this time we specify the number of characters to process? 
+
+The output for this will look like:   
+  
+
+**Hello **
+
+If you want to read a file line by line – as opposed to pulling the content of the entire file at once – then you use the readline() function. 
+
+Why would you use something like this? 
+
+Let's say you only want to see the first line of the file – or the third. You would execute the readline() function as many times as possible to get the data you were looking for. 
+
+Each time you run the method, it will return a string of characters that contains a single line of information from the file.   
+  
+
+**file = open("testfile.txt", "r") **
+**print file.readline(): **
+
+  
+This would return the first line of the file, like so:   
+  
+
+**Hello World **
+
+  
+If we wanted to return only the third line in the file, we would use this:   
+  
+
+**file = open("testfile.txt", "r") **
+**print file.readline(3): **
+
+  
+But what if we wanted to return every line in the file, properly separated? You would use the same function, only in a new form. This is called the file.readlines() function.   
+  
+
+**file = open("testfile.txt", "r") **
+**print file.readlines() **
+
+  
+The output you would get from this is:   
+  
+
+**\['Hello World', 'This is our new text file', 'and this is another line.', 'Why? Because we can.'\] **
+
+  
+Notice how each line is separated accordingly? Note that this is not the ideal way to show users the content in a file. But it's great when you want to collect information quickly for personal use during development or recall.  
+  
+
+
+Closing a File
+--------------
+
+  
+When you're done working, you can use the **fh.close()** command to end things. What this does is close the file completely, terminating resources in use, in turn freeing them up for the system to deploy elsewhere. 
+
+It's important to understand that when you use the **fh.close()** method, any further attempts to use the file object will fail. 
+
+Notice how we have used this in several of our examples to end interaction with a file? This is good practice.  
+  
