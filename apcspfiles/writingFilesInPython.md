@@ -67,8 +67,10 @@ The modes are: 
 
 So, let's take a look at a quick example. 
 
-**file = open("workfile","w") **
-**print(file) **
+```
+file = open("workfile","w")
+print(file)
+```
 
 This snippet opens the file named "workfile" in writing mode so that we can make changes to it. The current information stored within the file is also displayed – or printed – for us to view. 
 
@@ -89,16 +91,16 @@ Just create the file and leave it blank. 
 
 To manipulate the file, write the following in your Python environment (you can copy and paste if you'd like):  
   
-
-**file = open("testfile.txt","w") **
-**file.write("Hello World") **
-**file.close() **
-
+```
+file = open("testfile.txt","w")
+file.write("Hello World")
+file.close()
+```
   
 Naturally, if you open the text file – or look at it – using Python you will see only the text we told the interpreter to add.  
   
 
-**Hello World **
+```Hello World```
 
   
 
