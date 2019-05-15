@@ -29,7 +29,7 @@ In Python, a file is categorized as either text or binary, and the difference be
 
 Text files are structured as a sequence of lines, where each line includes a sequence of characters. This is what you know as code or syntax. 
 
-Each line is terminated with a special character, called the EOL or **End of Line** character. There are several types, but the most common is the comma {,} or newline character. It ends the current line and tells the interpreter a new one has begun. 
+Each line is terminated with a special character, called the EOL or **End of Line** character. There are several types, but the most common is the comma "," or newline character "\n". It ends the current line and tells the interpreter a new one has begun. 
 
 A backslash character can also be used, and it tells the interpreter that the next character – following the slash – should be treated as a new line. This character is useful when you don't want to start a new line in the text itself but in the code. 
 
@@ -48,7 +48,7 @@ An argument is nothing more than a value that has been provided to a function, w
 
 The syntax to open a file object in Python is: 
 
-**file  = open("filename", "mode")** where **file** is the variable to add the file object. 
+**file  = open("filename.txt", "mode")** where **file** is the variable to add the file object. 
 
 The second argument you see – **mode** – tells the interpreter and developer which way the file will be used.  
   
