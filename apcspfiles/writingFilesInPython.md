@@ -69,11 +69,9 @@ So, let's take a look at a quick example. 
 
 ```
 file = open("workfile.txt","w")
-print(file)
 ```
 
-This snippet opens the file named "workfile" in writing mode so that we can make changes to it. The current information stored within the file is also displayed – or printed – for us to view. 
-
+This snippet opens the file named "workfile.txt" in writing mode so that we can make changes to it.
 Once this has been done, you can move on to call the objects functions. The two most common functions are read and write.  
   
 
