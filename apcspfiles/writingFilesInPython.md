@@ -40,9 +40,9 @@ Open ( ) Function
 -----------------
 
   
-In order to open a file for writing or use in Python, you must rely on the built-in **open ()** function. 
+In order to open a file for writing or use in Python, you must rely on the built-in **open( )** function. 
 
-As explained above, **open ( )** will return a file object, so it is most commonly used with two arguments.  
+As explained above, **open( )** will return a file object, so it is most commonly used with two arguments.  
 
 An argument is nothing more than a value that has been provided to a function, which is relayed when you call it. So, for instance, if we declare the name of a file as "Test File," that name would be considered an argument. 
 
@@ -68,7 +68,7 @@ The modes are: 
 So, let's take a look at a quick example. 
 
 ```
-file = open("workfile","w")
+file = open("workfile.txt","w")
 print(file)
 ```
 
