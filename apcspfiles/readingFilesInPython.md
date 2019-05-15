@@ -29,20 +29,20 @@ In Python, a file is categorized as either text or binary, and the difference be
 
 Text files are structured as a sequence of lines, where each line includes a sequence of characters. This is what you know as code or syntax. 
 
-Each line is terminated with a special character, called the EOL or **End of Line** character. There are several types, but the most common is the comma {,} or newline character. It ends the current line and tells the interpreter a new one has begun. 
+Each line is terminated with a special character, called the EOL or **End of Line** character. There are several types, but the most common is the comma ```,``` or newline character ```\n```. It ends the current line and tells the interpreter a new one has begun. 
 
 A backslash character can also be used, and it tells the interpreter that the next character – following the slash – should be treated as a new line. This character is useful when you don't want to start a new line in the text itself but in the code. 
 
 A binary file is any type of file that is not a text file. Because of their nature, binary files can only be processed by an application that know or understand the file's structure. In other words, they must be applications that can read and interpret binary.  
   
 
-Open ( ) Function
+Open( ) Function
 -----------------
 
   
-In order to open a file for writing or use in Python, you must rely on the built-in **open ()** function. 
+In order to open a file for writing or use in Python, you must rely on the built-in **open( )** function. 
 
-As explained above, **open ( )** will return a file object, so it is most commonly used with two arguments.  
+As explained above, **open( )** will return a file object, so it is most commonly used with two arguments.  
 
 An argument is nothing more than a value that has been provided to a function, which is relayed when you call it. So, for instance, if we declare the name of a file as "Test File," that name would be considered an argument. 
 
@@ -67,19 +67,25 @@ The modes are: 
 
 So, let's take a look at a quick example. 
 
-**file = open("workfile","r") **
+**file = open("workfile.txt","r") **
 **print(file)**
 
 This snippet opens the file named "workfile" in reading mode. The current information stored within the file is displayed – or printed – for us to view. 
 
 Once this has been done, you can move on to call the objects functions. The two most common functions are read and write.  
   
+## FileNotFoundError
+If you try to open a file that doesn't exist you will get the following error...
 
+```
+FileNotFoundError: [Errno 2] No such file or directory
+```
+
+Use try/except to avoid this error.
   
 Reading a Text File in Python
 --------------------------------
 
-  
 There are actually a number of ways to read a text file in Python, not just one. 
 
 If you need to extract a string that contains all characters in the file, you can use the following method:   
