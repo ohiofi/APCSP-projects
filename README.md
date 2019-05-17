@@ -192,7 +192,7 @@ bytes, kilobytes, megabytes, gigabytes
 Create 3
 
 ## Tk
-- *2 wks* - reading files, canvas, dictionary, objects, classes, writing files, logical operators
+- *2 wks* - IDLE, reading files, canvas, dictionary, objects, classes, writing files, logical operators
 
 [044WeirdCalculatorInputValidationReview.md](apcspfiles/044WeirdCalculatorInputValidationReview.md)
 
