@@ -32,6 +32,12 @@
 
 Sign up for [digitalportfolio.collegeboard.org](digitalportfolio.collegeboard.org)
 
+Texts: 
+
+[CS Principles: Big Ideas in Programming by Mark Guzdial and Barbara Ericson](https://runestone.academy/runestone/static/BradleyAPCSP/index.html)
+
+[Python for Everybody by Charles Severance](https://books.trinket.io/pfe/index.html)
+
 Commit to take the AP test by October 4th. Late fee is $40.
 
 ## Scratch
