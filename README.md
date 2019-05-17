@@ -20,7 +20,7 @@
 1. **[Text Games](#text-games)** - *2 wks*
 1. **[Digital Info](#digital-info)** - *1 wk*
 1. **[Turtle Games](#turtle-games)** - *2wks*
-1. **[Tk](#tk)** - *3 wks*
+1. **[Tk](#tk)** - *2 wks*
 
 [4th Quarter](#4th-quarter)
 
@@ -192,7 +192,7 @@ bytes, kilobytes, megabytes, gigabytes
 Create 3
 
 ## Tk
-- *3 wks* - canvas, dictionary, objects, classes, writing files, reading files, logical operators
+- *2 wks* - reading files, canvas, dictionary, objects, classes, writing files, logical operators
 
 [044WeirdCalculatorInputValidationReview.md](apcspfiles/044WeirdCalculatorInputValidationReview.md)
 
