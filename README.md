@@ -32,6 +32,8 @@
 
 Sign up for [digitalportfolio.collegeboard.org](digitalportfolio.collegeboard.org)
 
+Join our Code.org class
+
 Texts: 
 
 [CS Principles: Big Ideas in Programming by Mark Guzdial and Barbara Ericson](https://runestone.academy/runestone/static/BradleyAPCSP/index.html)
