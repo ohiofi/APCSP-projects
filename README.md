@@ -63,18 +63,21 @@ Either [010QuestHealthGame.md](apcspfiles/010QuestHealthGame.md) or [102ScratchP
 [011ScratchFreedomOfChoice.md](apcspfiles/011ScratchFreedomOfChoice.md)
 
 ## Py
-- *2 wks* - Vocab: syntax, syntax error, variable, assignment, mathmatical operator, comparison operator, conditionals, function def, function call, input, argument, string, int, boolean, division by zero, comment, camelCase, scope, local variable, magic numbers, return, 
+- *2 wks* - Vocab: syntax, syntax error, variable, assignment, mathmatical operator, comparison operator, conditionals, function def, function call, input, argument, string, int, boolean, division by zero, comment, camelCase, scope, local variable, magic numbers, return, Python Tkinter simple apps, Create 1
 
 Install Python Mu IDE: [https://codewith.mu/](https://codewith.mu/)
 
-Python Tkinter simple apps, Create 1
-
+[108PyDollarConvert](apcspfiles/108PyDollarConvert.md)
 
 Either Py2DGeometry or Py3DVolume
 
-PyFoodOrderCalculator
+PyFoodCalculator
 
-PyParrotTrouble
+[105PyModuloFun.md](apcspfiles/105PyModuloFun.md)
+
+[104PyParrotTrouble](apcspfiles/104PyParrotTrouble.md)
+
+[106PyThreeArgs](apcspfiles/106PyThreeArgs.md)
 
 Create 1 - Pair - [100Tk1CreateReflectV1.md](apcspfiles/100Tk1CreateReflectV1.md)
 
@@ -136,6 +139,8 @@ Create 2
 
 [023Pseudocode3PPong.md](apcspfiles/023Pseudocode3PPong.md)
 
+[103RandomIntArray.md](apcspfiles/103RandomIntArray.md)
+
 [022ConsoleTemps.md](apcspfiles/022ConsoleTemps.md)
 
 [024ConsoleMultiChoiceQuizGame](apcspfiles/024ConsoleMultiChoiceQuizGame.md)
@@ -149,6 +154,8 @@ Create 2
 [031ConsoleHourlyAndYearlyWages](apcspfiles/031ConsoleHourlyAndYearlyWages.md)
 
 [032ConsoleTriviaHighLow.md](apcspfiles/032ConsoleTriviaHighLow.md)
+
+[101StringFormattingAndLoops.md](apcspfiles/101StringFormattingAndLoops.md)
 
 ## Big Data
 - *2 wks* - Code.org Unit 4: Big Data and Privacy, [https://studio.code.org/s/csp4-2018](https://studio.code.org/s/csp4-2018), Explore 2
@@ -199,6 +206,8 @@ Create 3
 [045TkinterShapesAndButtons.md](apcspfiles/045TkinterShapesAndButtons.md)
 
 [046TkinterAppWithInputValidation.md](apcspfiles/046TkinterAppWithInputValidation.md)
+
+[107TkTryLoadFile.md](apcspfiles/107TkTryLoadFiles.md)
 
 [047TkinterPollv1.0.md](apcspfiles/047TkinterPollv1.0.md)
 

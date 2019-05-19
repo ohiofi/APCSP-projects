@@ -1,4 +1,4 @@
-Create four functions that will convert from or to dollars. Each function will require one argument: the amount to be converted. It will return the converted amount.
+Create four functions that will convert from or to dollars. Each function will require one argument: the amount to be converted. It will return the converted amount
 
 For example:
 - dollarsToBitcoin
