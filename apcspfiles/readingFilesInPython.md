@@ -23,7 +23,7 @@ The modes are: 
 So, let's take a look at a quick example. 
 
 ```
-file = open("workfile.txt","r")
+file = open("mytextfile.txt","r")
 ```
 
 This snippet opens the file named "workfile" in reading mode. 
@@ -52,9 +52,10 @@ If you need to extract a string that contains all characters in the file, you ca
 The full code to work with this method will look something like this:   
   
 ```
-file = open("testfile.text", "r")
+file = open("mytextfile.txt", "r")
 mystring = file.read()
-print(mystring)
+print("Loaded from file: " + mystring)
+file.close()
 ```
 
   
@@ -68,6 +69,7 @@ What if we wanted to return every line in the file, properly separated? You woul
 ```
 file = open("rosesPoem.txt", "r")
 print(file.readlines())
+file.close()
 ```
 
   
