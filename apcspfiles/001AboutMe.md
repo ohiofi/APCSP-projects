@@ -18,7 +18,7 @@ Creating Your Game
 Requirements
 Include the following information in your dialogue.
 * Ask "What's your name?"
-* If the user's answer equals "Mr Riley"
+* If the user's answer equals "Bradley"
   * Change the color effect by 25
 * Otherwise
   * Say "Hello _____" using the user's answer
