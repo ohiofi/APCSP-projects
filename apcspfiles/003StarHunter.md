@@ -1,4 +1,4 @@
-[Star Hunter](https://github.com/ohiofi/APCSP-projects/blob/master/02%20Star%20Hunter%20(1).pdf)
+[Star Hunter](StarHunterTutorial.pdf)
 
 Follow the directions in the PDF, then also...
 
