@@ -1,4 +1,4 @@
-[Star Hunter](StarHunterTutorial.pdf)
+[StarHunterTutorial.pdf](StarHunterTutorial.pdf)
 
 Follow the directions in the PDF, then also...
 
