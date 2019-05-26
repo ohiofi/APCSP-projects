@@ -75,6 +75,8 @@ PyFoodCalculator
 
 [105PyModuloFun.md](apcspfiles/105PyModuloFun.md)
 
+[109PyHogwartsQuiz.md](apcspfiles/109PyHogwartsQuiz.md)
+
 [104PyParrotTrouble](apcspfiles/104PyParrotTrouble.md)
 
 [106PyThreeArgs](apcspfiles/106PyThreeArgs.md)

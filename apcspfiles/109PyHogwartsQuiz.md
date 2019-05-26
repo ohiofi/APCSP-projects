@@ -6,13 +6,12 @@ Create a function called hogwartsQuiz that requires two arguments: braveryScore 
 
 
 |Slytherin|High Bravery|Gryffindor|
-|---|---|---|
 |Low Teamwork||High Teamwork|
-|---|---|---|
 |Ravenclaw|Low Bravery|Hufflepuff|
 
 
 -=-=-=-=-=-=-=-=-=-
+
 GOLD MEDAL CHALLENGE:
 
 Create your own quiz with four possible outcomes. For example:
