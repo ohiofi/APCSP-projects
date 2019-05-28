@@ -30,9 +30,9 @@
 
 # 1st Quarter
 
-Sign up for [digitalportfolio.collegeboard.org](digitalportfolio.collegeboard.org)
+*Whenever possible, select "Sign up with Google" and use your hilliardschools.org account.* Sign up for [digitalportfolio.collegeboard.org](digitalportfolio.collegeboard.org), [scratch.mit.edu](scratch.mit.edu), [code.org](https://code.org/), [trinket.io](trinket.io), "Sign up with Google" [repl.it](repl.it), [khanacademy.org](khanacademy.org), [github.com](https://github.com)
 
-Join our Code.org class
+Join our code.org class, our repl.it class, our khanacademy.org class
 
 Texts: 
 
