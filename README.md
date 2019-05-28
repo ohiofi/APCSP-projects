@@ -204,6 +204,7 @@ Create 3
 
 ## Tk
 - *2 wks* - IDLE, reading files, canvas, dictionary, objects, classes, writing files, logical operators
+[PythonTruthTableGenerator]()
 
 [044WeirdCalculatorInputValidationReview.md](apcspfiles/044WeirdCalculatorInputValidationReview.md)
 
@@ -214,6 +215,14 @@ Create 3
 [107TkTryLoadFile.md](apcspfiles/107TkTryLoadFiles.md)
 
 [047TkinterPollv1.0.md](apcspfiles/047TkinterPollv1.0.md)
+
+[TkAddressBook]()
+
+[TkMenuOrder]()
+
+[TkPollAverage]()
+
+[TkMultiQuestion]()
 
 # 4th Quarter
 
