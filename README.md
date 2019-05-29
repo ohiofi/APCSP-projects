@@ -84,13 +84,13 @@ PyFoodCalculator
 
 [105PyModuloFun.md](apcspfiles/105PyModuloFun.md)
 
-[109PyHogwartsQuiz.md](apcspfiles/109PyHogwartsQuiz.md)
+[111PyNumberToTen.md](apcspfiles/111PyNumberToTen.md)
+
+[109PyHogwartsHouse.md](apcspfiles/109PyHogwartsHouse.md)
 
 [104PyParrotTrouble](apcspfiles/104PyParrotTrouble.md)
 
-[106PyThreeArgs](apcspfiles/106PyThreeArgs.md)
-
-[110PyCollisionFun.md](apcspfiles/110PyCollisionFun.md)
+Either [106PyThreeArgs](apcspfiles/106PyThreeArgs.md) or [110PyCollisionFun.md](apcspfiles/110PyCollisionFun.md)
 
 Create 1 - Pair - [100Tk1CreateReflectV1.md](apcspfiles/100Tk1CreateReflectV1.md)
 
