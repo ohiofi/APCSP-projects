@@ -30,9 +30,9 @@
 
 # 1st Quarter
 
-*Whenever possible, select "Sign up with Google" and use your hilliardschools.org account.* 
+*Whenever possible, select "Sign up with Google" and use your hilliardschools.org account.*
 
-Sign up for 
+Sign up for
 - [digitalportfolio.collegeboard.org](digitalportfolio.collegeboard.org)
 - [scratch.mit.edu](scratch.mit.edu)
 - [code.org](https://code.org/)
@@ -43,7 +43,7 @@ Sign up for
 
 Join our code.org class, our repl.it class, our khanacademy.org class
 
-Texts: 
+Texts:
 
 [CS Principles: Big Ideas in Programming by Mark Guzdial and Barbara Ericson](https://runestone.academy/runestone/static/BradleyAPCSP/index.html)
 
@@ -54,20 +54,17 @@ Commit to take the AP test by October 4th. Late fee is $40.
 ## Scratch
 - *2 wks* - Vocab: input, output, variable, assignment, string, int, boolean, script, conditional, binary selection, comparison operator, loop, prompt, event listeners
 
-
 [001AboutMe](apcspfiles/001AboutMe.md)
 
 Either [002BouncingOffTheWalls](apcspfiles/002BouncingOffTheWalls.md) or [003StarHunter.md](apcspfiles/003StarHunter.md)
 
 Either [004WalkingAndJumping.md](apcspfiles/004WalkingAndJumping.md) or [005CheeseChase.md](apcspfiles/005CheeseChase.md)
 
-Either [006LancherGame.md](apcspfiles/006LancherGame.md) or [007ShapesAndInitials.md](apcspfiles/007ShapesAndInitials.md)
+[007ShapesAndInitials.md](apcspfiles/007ShapesAndInitials.md)
 
-Either [008HungryBug.md](apcspfiles/008HungryBug.md) or [009RacingGame.md](apcspfiles/009RacingGame.md)
+Either [006LancherGame.md](apcspfiles/006LancherGame.md) or [008HungryBug.md](apcspfiles/008HungryBug.md) or [009RacingGame.md](apcspfiles/009RacingGame.md)
 
 Either [010QuestHealthGame.md](apcspfiles/010QuestHealthGame.md) or [102ScratchPlatformer.md](apcspfiles/102ScratchPlatformer.md)
-
-
 
 [011ScratchFreedomOfChoice.md](apcspfiles/011ScratchFreedomOfChoice.md)
 
@@ -76,15 +73,13 @@ Either [010QuestHealthGame.md](apcspfiles/010QuestHealthGame.md) or [102ScratchP
 
 Install Python Mu IDE: [https://codewith.mu/](https://codewith.mu/)
 
-[108PyDollarConvert](apcspfiles/108PyDollarConvert.md)
+[111PyNumberToHundred.md](apcspfiles/111PyNumberToHundred.md)
+
+Either [108PyDollarConvert](apcspfiles/108PyDollarConvert.md) or PyMenuCalculator
 
 Either Py2DGeometry or Py3DVolume
 
-PyFoodCalculator
-
 [105PyModuloFun.md](apcspfiles/105PyModuloFun.md)
-
-[111PyNumberToTen.md](apcspfiles/111PyNumberToTen.md)
 
 [109PyHogwartsHouse.md](apcspfiles/109PyHogwartsHouse.md)
 
