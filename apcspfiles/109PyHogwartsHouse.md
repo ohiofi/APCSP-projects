@@ -1,5 +1,6 @@
 Create a Tkinter app that:
 - says "Bravery Score (1-10)"
+- has a box for user input
 - says "Teamwork Score (1-10)"
 - has a box for user input
 - has a submit button
