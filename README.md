@@ -75,7 +75,7 @@ Install Python Mu IDE: [https://codewith.mu/](https://codewith.mu/)
 
 [111PyNumberToHundred.md](apcspfiles/111PyNumberToHundred.md)
 
-Either [108PyDollarConvert](apcspfiles/108PyDollarConvert.md) or PyMenuCalculator
+Either [108PyDollarConvert](apcspfiles/108PyDollarConvert.md) or PyMenuCalculator or [WeightOnPlanets](https://www.101computing.net/weight-on-the-moon-calculator/)
 
 Either Py2DGeometry or Py3DVolume
 
