@@ -157,7 +157,7 @@ Create 2
 
 [029ConsoleTipCalculator.md](apcspfiles/029ConsoleTipCalculator.md)
 
-[030Console2DGeometryCalculation](apcspfiles/030Console2DGeometryCalculation.md)
+[030Console2DGeometryCalculations](apcspfiles/030Console2DGeometryCalculations.md)
 
 [031ConsoleHourlyAndYearlyWages](apcspfiles/031ConsoleHourlyAndYearlyWages.md)
 
